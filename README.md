@@ -64,7 +64,6 @@
 
 - 🔥 MERN Stack Real-World Applications  
 - ⚡ DSA & Competitive Programming Solutions  
-- 🎮 Game Development & Creative Projects  
 - 📊 Airline Analysis PowerBI Dashboard (https://github.com/Himank1-tech/Airline-Analysis-PowerBi)
 
 📌 *More exciting projects coming soon…*
