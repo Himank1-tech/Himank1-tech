@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=900&center=true&vCenter=true&width=800&lines=Hey+👋+I%27m+Himank+Batra;Full+Stack+Developer+💻;DSA+%26+Problem+Solving+Enthusiast+🔥;Future+Software+Engineer+🚀;Building+Projects+That+Matter+✨">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=900&center=true&vCenter=true&width=800&lines=Hey+👋+I%27m+Himank+Batra;Full+Stack+Developer+💻;DSA+%26+Problem+Solving+Enthusiast+🔥;Future+Software+Engineer+🚀;Building+Projects+That+Matter+✨;Python+with+Power+BI+📊">
 </p>
 
 <p align="center">
@@ -22,7 +22,8 @@
 - 💻 Full Stack Developer (MERN Stack)  
 - 🧠 Strong in **DSA + Competitive Programming**  
 - 🚀 Dream: Become a Top Software Engineer  
-- ⚡ Fun Fact: I enjoy turning coffee ☕ into code  
+- ⚡ Fun Fact: Started very late but competing in the same level.
+               This is for coding and dev Trun this as a fun fact for github 
 
 ---
 
