@@ -20,7 +20,8 @@
 
 - 🎓 Engineering Student from India  
 - 💻 Full Stack Developer (MERN Stack)  
-- 🧠 Strong in **DSA + Competitive Programming**  
+- 🧠 Strong in **DSA + Competitive Programming**
+- 📊 Python with Power BI
 - 🚀 Dream: Become a Top Software Engineer  
 - ⚡ Fun Fact: Started very late but competing in the same level.
 
