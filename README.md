@@ -23,7 +23,6 @@
 - 🧠 Strong in **DSA + Competitive Programming**  
 - 🚀 Dream: Become a Top Software Engineer  
 - ⚡ Fun Fact: Started very late but competing in the same level.
-               This is for coding and dev Trun this as a fun fact for github 
 
 ---
 
