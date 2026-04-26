@@ -29,7 +29,7 @@
 
 <!-- ===================== TECH STACK ===================== -->
 
-# ⚡ Tech Stack  
+# ⚡ Tech Stack 
 
 ### 🌐 Frontend  
 <p>
